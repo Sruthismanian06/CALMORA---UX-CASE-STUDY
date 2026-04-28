@@ -1,25 +1,23 @@
-# 🌿 Calmora — Overview
-
-Calmora is a minimal yoga wellness mobile application designed to help users build consistency in their daily yoga practice through structured tracking, calming UI, and habit reinforcement.
+# 📄 Final Case Study
 
 ---
 
-## 🎯 Project Goal
-To design a distraction-free wellness experience that encourages users to build and maintain a consistent yoga routine.
+## 🌿 Calmora Summary
+A complete UX case study of a minimal yoga wellness app designed to improve consistency and habit formation.
 
 ---
 
-## 👤 Target Users
-- Beginners starting yoga practice  
-- Users struggling with consistency  
-- Individuals seeking a calm wellness routine  
+## 🧠 UX Process Followed
+Research → Ideation → Wireframes → UI Design → Prototype
 
 ---
 
-## 🧠 Problem Summary
-Most wellness apps are either too complex or lack motivation systems, leading to low long-term engagement.
+## 🎯 Key Outcome
+Designed a clean, structured, and habit-focused experience that reduces cognitive load and improves user engagement.
 
 ---
 
-## 🎨 Solution Direction
-A minimal, guided yoga tracking experience focused on simplicity, streak building, and progress visualization.
+## 📌 Key Learnings
+- Importance of simplicity in wellness apps  
+- Role of visual motivation in habit building  
+- Impact of structured onboarding flow  
